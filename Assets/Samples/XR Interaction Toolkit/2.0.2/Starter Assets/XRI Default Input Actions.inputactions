@@ -316,6 +316,17 @@
                 },
                 {
                     "name": "",
+                    "id": "a1456297-ab2f-4ef7-b5b1-7182699d5091",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Activate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "3b8b1b59-2fdc-4998-8259-50341075d9a2",
                     "path": "<XRController>{LeftHand}/trigger",
                     "interactions": "",
@@ -332,6 +343,17 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "Generic XR Controller",
+                    "action": "UI Press",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "7b75ab09-7dd5-4bc6-b325-58d71798e8cb",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
                     "action": "UI Press",
                     "isComposite": false,
                     "isPartOfComposite": false
@@ -834,6 +856,17 @@
                 },
                 {
                     "name": "",
+                    "id": "fc09ac51-9e34-4d1c-a7c6-a31fe2cde9b7",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Activate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "150f414f-61bf-47b1-b4f8-f772a2a40565",
                     "path": "<XRController>{RightHand}/trigger",
                     "interactions": "",
@@ -850,6 +883,17 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "Generic XR Controller",
+                    "action": "UI Press",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0df330c9-96d2-4104-aab4-660152c8dff0",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
                     "action": "UI Press",
                     "isComposite": false,
                     "isPartOfComposite": false
